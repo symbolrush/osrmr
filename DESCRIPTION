@@ -1,4 +1,4 @@
-Package: OSRM
+Package: OSRMR
 Type: Package
 Title: OSRM <> R connector
 Version: 0.1
