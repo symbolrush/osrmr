@@ -7,5 +7,6 @@ Author: Adrian Schmid
 Maintainer: <adrian.schmid@fhsg.ch>
 Description: OSRM is an experimental package for connecting R with the OSRM routing machine.
 License: tbd
+URL: https://github.com/symbolrush/OSRMR
 LazyData: TRUE
 Suggests: testthat
