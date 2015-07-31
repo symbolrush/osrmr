@@ -1,0 +1,11 @@
+Package: OSRM
+Type: Package
+Title: OSRM <> R connector
+Version: 0.1
+Date: 2015-07-31
+Author: Adrian Schmid
+Maintainer: <adrian.schmid@fhsg.ch>
+Description: OSRM is an experimental package for connecting R with the OSRM routing machine.
+License: tbd
+LazyData: TRUE
+Suggests: testthat
